@@ -6,7 +6,8 @@ let noun = ["You hear a sound through the trees. It is getting closer. You feel 
 "You didn't see the pit. You did see the spikes at the bottom, but by then it was too late. Goodnight!",
 "You see something shining on the ground. When you get closer for a better look. You feel your soul leave your body. You are now something shining on the ground.",
 "You'll never know what it was that got you",
-"It is beautiful. You make it through the wood, and into the sunny meadow. Out in the open the sky stretches for miles. Only now do you see the beast. There is no where to run"]
+"It is beautiful. You make it through the wood, and into the sunny meadow. Out in the open the sky stretches for miles. Only now do you see the beast. There is nowhere to run.",
+"You can feel it watching you. You'll never know what it is, but it sees you. It is coming"]
 
 
 
